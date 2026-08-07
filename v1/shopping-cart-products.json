@@ -53,7 +53,7 @@
     "price": 2.0,
     "description": "Fresh, crunchy cucumbers straight from the vine. Ideal for salads, pickling, or refreshing summer snacks.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/cucumbers.png",
+    "image": "https://trithereon.github.io/fake-api/img/cucumbers.jpg",
     "rating": {
       "rate": 3.6,
       "count": 236
@@ -89,7 +89,7 @@
     "price": 4.0,
     "description": "Vibrant, flavorful tomatoes in assorted colors. Sweet, tangy, and perfect for caprese or sauces.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/tomatoes.png",
+    "image": "https://trithereon.github.io/fake-api/img/tomatoes.jpg",
     "rating": {
       "rate": 4.4,
       "count": 307
@@ -101,7 +101,7 @@
     "price": 3.0,
     "description": "A colorful bunch of purple, orange, and yellow carrots. Sweet, crunchy, and full of beta-carotene.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/carrots.png",
+    "image": "https://trithereon.github.io/fake-api/img/carrots.jpg",
     "rating": {
       "rate": 3.8,
       "count": 299
@@ -125,7 +125,7 @@
     "price": 3.75,
     "description": "A mix of red, yellow, and green bell peppers. Crisp, sweet, and versatile for stir-fries and stuffing.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/bell-peppers.png",
+    "image": "https://trithereon.github.io/fake-api/img/bell-peppers.jpg",
     "rating": {
       "rate": 4.4,
       "count": 23
@@ -137,7 +137,7 @@
     "price": 1.75,
     "description": "Pungent, flavorful red onions. The kitchen staple for soups, stews, caramelizing, and more.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/onions.png",
+    "image": "https://trithereon.github.io/fake-api/img/onions.jpg",
     "rating": {
       "rate": 4.6,
       "count": 101
@@ -149,7 +149,7 @@
     "price": 3.5,
     "description": "Tender potatoes with thin skins. Boil, roast, or mash for a comforting farm-fresh side dish.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/potatoes.png",
+    "image": "https://trithereon.github.io/fake-api/img/potatoes.jpg",
     "rating": {
       "rate": 4.5,
       "count": 194
@@ -161,7 +161,7 @@
     "price": 2.25,
     "description": "Fresh, firm zucchini perfect for grilling, zoodles, or baking into bread. Mild flavor, versatile veggie.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/zucchini.png",
+    "image": "https://trithereon.github.io/fake-api/img/zucchini.jpg",
     "rating": {
       "rate": 3.9,
       "count": 130
@@ -173,7 +173,7 @@
     "price": 2.8,
     "description": "Nutrient-dense curly kale, great for salads, smoothies, or crispy kale chips. A superfood powerhouse.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/kale.png",
+    "image": "https://trithereon.github.io/fake-api/img/kale.jpg",
     "rating": {
       "rate": 4.9,
       "count": 192
@@ -185,7 +185,7 @@
     "price": 3.0,
     "description": "Tender baby spinach leaves, washed and ready to eat. Mild flavor, perfect for salads and smoothies.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/baby-spinach.png",
+    "image": "https://trithereon.github.io/fake-api/img/baby-spinach.jpg",
     "rating": {
       "rate": 3.7,
       "count": 214
@@ -197,7 +197,7 @@
     "price": 5.0,
     "description": "Plump, antioxidant-rich blueberries. Sweet and juicy — perfect for pancakes, yogurt, or snacking.",
     "category": "fruits",
-    "image": "https://trithereon.github.io/fake-api/img/blueberries.png",
+    "image": "https://trithereon.github.io/fake-api/img/blueberries.jpg",
     "rating": {
       "rate": 3.6,
       "count": 196
@@ -209,7 +209,7 @@
     "price": 8.0,
     "description": "Delicious, juicy and sweet. The sun is out; it's watermelon time.",
     "category": "fruits",
-    "image": "https://trithereon.github.io/fake-api/img/watermelon.png",
+    "image": "https://trithereon.github.io/fake-api/img/watermelon.jpg",
     "rating": {
       "rate": 4.4,
       "count": 42
@@ -221,7 +221,7 @@
     "price": 2.5,
     "description": "Fragrant, aromatic fresh basil. Essential for pesto, caprese, and Italian cooking.",
     "category": "herbs",
-    "image": "https://trithereon.github.io/fake-api/img/basil.png",
+    "image": "https://trithereon.github.io/fake-api/img/basil.jpg",
     "rating": {
       "rate": 4.6,
       "count": 294
@@ -233,7 +233,7 @@
     "price": 2.0,
     "description": "Crisp, peppery red radishes with vibrant greens. Great raw in salads or roasted for a sweet twist.",
     "category": "vegetables",
-    "image": "https://trithereon.github.io/fake-api/img/radishes.png",
+    "image": "https://trithereon.github.io/fake-api/img/radishes.jpg",
     "rating": {
       "rate": 3.7,
       "count": 213
