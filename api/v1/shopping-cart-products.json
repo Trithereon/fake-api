@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Farm Fresh Eggs - Dozen",
+    "price": 6.5,
+    "description": "One dozen large pasture-raised eggs from happy hens. Rich golden yolks, perfect for breakfast or baking.",
+    "category": "dairy & eggs",
+    "image": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Eggplant",
+    "price": 3.25,
+    "description": "Glossy purple eggplants, freshly harvested. Perfect for grilling, roasting, or making ratatouille.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Radish Microgreens",
+    "price": 5.0,
+    "description": "Nutrient-packed radish microgreens with a peppery kick. Great for salads, sandwiches, and garnishes.",
+    "category": "microgreens",
+    "image": "https://images.unsplash.com/photo-1622205313162-be1d5712a43f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Sunflower Microgreens",
+    "price": 5.5,
+    "description": "Crunchy, nutty sunflower microgreens. Loaded with vitamins and protein. A superfood for your daily meals.",
+    "category": "microgreens",
+    "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Cucumbers",
+    "price": 2.0,
+    "description": "Fresh, crunchy cucumbers straight from the vine. Ideal for salads, pickling, or refreshing summer snacks.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1449300079323-02e209d9d3a6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Strawberries",
+    "price": 4.5,
+    "description": "Juicy, sun-ripened strawberries bursting with sweetness. Perfect for desserts, smoothies, or eating fresh.",
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "Garlic",
+    "price": 2.75,
+    "description": "Aromatic, flavorful organic garlic bulbs. Essential for cooking and known for their health benefits.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1615477083313-0f4a0bf97e9e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Heirloom Tomatoes",
+    "price": 4.0,
+    "description": "Vibrant, flavorful heirloom tomatoes in assorted colors. Sweet, tangy, and perfect for caprese or sauces.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "Rainbow Carrots Bunch",
+    "price": 3.0,
+    "description": "A colorful bunch of purple, orange, and yellow carrots. Sweet, crunchy, and full of beta-carotene.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Butterhead Lettuce",
+    "price": 2.5,
+    "description": "Tender, buttery lettuce heads with soft leaves. Perfect for fresh salads and lettuce wraps.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 11,
+    "title": "Bell Peppers - Mixed",
+    "price": 3.75,
+    "description": "A mix of red, yellow, and green bell peppers. Crisp, sweet, and versatile for stir-fries and stuffing.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 12,
+    "title": "Yellow Onions",
+    "price": 1.75,
+    "description": "Pungent, flavorful yellow onions. The kitchen staple for soups, stews, caramelizing, and more.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 13,
+    "title": "Potatoes",
+    "price": 3.5,
+    "description": "Tender potatoes with thin skins. Boil, roast, or mash for a comforting farm-fresh side dish.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 14,
+    "title": "Zucchini",
+    "price": 2.25,
+    "description": "Fresh, firm zucchini perfect for grilling, zoodles, or baking into bread. Mild flavor, versatile veggie.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1573145819883-b4fde9f81c0e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 15,
+    "title": "Curly Kale",
+    "price": 2.8,
+    "description": "Nutrient-dense curly kale, great for salads, smoothies, or crispy kale chips. A superfood powerhouse.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1524179091875-bf99a9a6af57?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 16,
+    "title": "Baby Spinach",
+    "price": 3.0,
+    "description": "Tender baby spinach leaves, washed and ready to eat. Mild flavor, perfect for salads and smoothies.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 17,
+    "title": "Blueberries",
+    "price": 5.0,
+    "description": "Plump, antioxidant-rich blueberries. Sweet and juicy — perfect for pancakes, yogurt, or snacking.",
+    "category": "fruits",
+    "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 18,
+    "title": "Raw Wildflower Honey",
+    "price": 8.0,
+    "description": "Unfiltered raw wildflower honey from our farm hives. Rich, floral sweetness with natural enzymes.",
+    "category": "pantry",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 19,
+    "title": "Fresh Basil Bunch",
+    "price": 2.5,
+    "description": "Fragrant, aromatic fresh basil. Essential for pesto, caprese, and Italian cooking.",
+    "category": "herbs",
+    "image": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 20,
+    "title": "Radishes Bunch",
+    "price": 2.0,
+    "description": "Crisp, peppery red radishes with vibrant greens. Great raw in salads or roasted for a sweet twist.",
+    "category": "vegetables",
+    "image": "https://images.unsplash.com/photo-1590412699129-2d2469601b8c?w=400&h=400&fit=crop"
+  }
+]
